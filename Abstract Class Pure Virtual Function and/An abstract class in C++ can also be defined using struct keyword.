@@ -1,5 +1,5 @@
 An abstract class in C++ can also be defined using struct keyword.
-Example:
+Example
 
 struct shapeClass
 {
