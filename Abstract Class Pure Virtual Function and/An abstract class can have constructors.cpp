@@ -28,8 +28,7 @@ class Derived : public Base {
 
 public:
 	// calling the constructor of Base class
-	Derived(int i, int j)
-		: Base(i)
+	Derived(int i, int j): Base(i)
 	{
 		y = j;
 	}
