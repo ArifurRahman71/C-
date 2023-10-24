@@ -1,0 +1,3 @@
+Polymorphism means "many forms", and it occurs when we have many classes that are related to each other by inheritance. 
+
+A virtual function in C++ is a base class member function that you can redefine in a derived class to achieve polymorphism. 
