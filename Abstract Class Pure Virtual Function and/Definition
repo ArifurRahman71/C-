@@ -1,0 +1,9 @@
+Abstract Class 
+
+A class that contains a pure virtual function is known as an abstract class. 
+
+pure virtual function 
+
+A pure virtual function is a function that must be overridden in a derived class and need not be defined 
+
+ 
